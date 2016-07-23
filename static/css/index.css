@@ -1,0 +1,12 @@
+body{ margin:0; }
+a {text-decoration:none}
+.g-bd, .g-bd-night{ position:fixed; width:100%; height:100%; padding:16px; background:#f6f4ec }
+.g-bd-night{ background:#101010; }
+.g-book-content{ max-width:720px; margin:auto; }
+.u-title{ color:#333 }
+.u-title-night{ color:#999 }
+.u-content, .u-content-night{ line-height:1.6em; font-size:18px; color:#333 }
+.u-content-night{ color:#777 }
+.u-night-toggle{ float:right; margin:0 20px 0 0; }
+.nav > li{ display:inline-block;padding:8px }
+.nav > li:hover{ background:#ececec; }
